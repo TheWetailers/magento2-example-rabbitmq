@@ -1,4 +1,4 @@
-Exemple de modules utilisant RabbitMQ pour Magento 2
+Exemple de module utilisant RabbitMQ pour Magento 2
 
 Pour envoyer un message utilisez la commande suivante :
 ```
