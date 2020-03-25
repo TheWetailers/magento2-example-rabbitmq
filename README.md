@@ -1,4 +1,11 @@
-Exemple de module utilisant RabbitMQ pour Magento 2
+Exemple de module utilisant RabbitMQ pour Magento 2.
+
+Copier les sources du modules puis installez-le :
+
+```
+$ php bin/magento module:enable Tws_Rabbitmq
+$ php bin/magento setup:di:compile
+```
 
 Pour envoyer un message utilisez la commande suivante :
 ```
